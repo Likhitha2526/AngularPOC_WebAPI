@@ -3348,11 +3348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\likhitha.sunkara\\Desktop\\Angular_poc\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\likhitha.sunkara\\Documents\\GitHub\\AngularPOC_WebAPI\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\likhitha.sunkara\\Desktop\\Angular_poc\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\likhitha.sunkara\\Documents\\GitHub\\AngularPOC_WebAPI\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\likhitha.sunkara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\likhitha.sunkara\\Desktop\\Angular_poc\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\likhitha.sunkara\\Documents\\GitHub\\AngularPOC_WebAPI\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\likhitha.sunkara\\AppData\\Roaming\\NuGet\\NuGet.Config",
